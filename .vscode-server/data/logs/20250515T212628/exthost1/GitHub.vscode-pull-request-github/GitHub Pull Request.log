@@ -1,0 +1,29 @@
+2025-05-15 21:26:33.459 [warning] /home/almir/.ssh/config: ENOENT: no such file or directory, open '/home/almir/.ssh/config'
+2025-05-15 21:26:33.459 [info] [Activation] Extension version: 0.110.0
+2025-05-15 21:26:33.612 [info] [Activation] Looking for git repository
+2025-05-15 21:26:33.612 [info] [Activation] Found 0 repositories during activation
+2025-05-15 21:26:33.612 [info] [Activation] Git repository found, initializing review manager and pr tree view.
+2025-05-15 21:26:33.613 [info] [GitAPI] Registering git provider
+2025-05-15 21:43:15.243 [info] [GitAPI] Repository file:///home/almir/escoladanuvem has been opened
+2025-05-15 21:43:15.243 [info] [Review+0] Validate state in progress
+2025-05-15 21:43:15.243 [info] [Review+0] Validating state...
+2025-05-15 21:43:15.245 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-05-15 21:43:15.245 [info] [FolderRepositoryManager+0] No GitHub remotes found for folder /home/almir/escoladanuvem
+2025-05-15 21:43:15.246 [info] [FolderRepositoryManager+0] Trying to use globalState for assignableUsers.
+2025-05-15 21:43:15.277 [info] [Review+0] Queuing additional validate state
+2025-05-15 21:43:15.277 [info] [Activation] Repo state for file:///home/almir/escoladanuvem changed.
+2025-05-15 21:43:15.277 [info] [Activation] Repo file:///home/almir/escoladanuvem has already been setup.
+2025-05-15 21:43:15.287 [info] [FolderRepositoryManager+0] GlobalState does not exist for assignableUsers.
+2025-05-15 21:43:15.345 [info] [Review+0] Validating state...
+2025-05-15 21:43:15.345 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-05-15 21:43:15.346 [info] [FolderRepositoryManager+0] No GitHub remotes found for folder /home/almir/escoladanuvem
+2025-05-15 21:43:15.346 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-05-15 21:43:15.356 [info] [Review+0] No matching pull request metadata found locally for current branch master
+2025-05-15 21:43:15.362 [info] [Review+0] No matching pull request metadata found on GitHub for current branch master
+2025-05-15 21:44:42.925 [info] [Review+0] Validate state in progress
+2025-05-15 21:44:42.925 [info] [Review+0] Validating state...
+2025-05-15 21:44:42.931 [warning] No remotes found. The following remotes are missing: origin, upstream
+2025-05-15 21:44:42.931 [info] [FolderRepositoryManager+0] No GitHub remotes found for folder /home/almir/escoladanuvem
+2025-05-15 21:44:42.931 [info] [FolderRepositoryManager+0] Using in-memory cached assignable users.
+2025-05-15 21:44:42.942 [info] [Review+0] No matching pull request metadata found locally for current branch aula01
+2025-05-15 21:44:42.949 [info] [Review+0] No matching pull request metadata found on GitHub for current branch aula01

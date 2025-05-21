@@ -1,0 +1,28 @@
+2025-05-15 21:33:09.348 [info] Starting Python Locator /home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025051507-linux-x64/python-env-tools/bin/pet server
+2025-05-15 21:33:09.349 [info] Discovered env: /usr/bin/python3
+2025-05-15 21:33:09.351 [info] Discovered env: /bin/python3
+2025-05-15 21:33:12.698 [info] Locator Conda took 4.056536336s
+2025-05-15 21:33:12.698 [info] Locator Homebrew took 930.947µs
+2025-05-15 21:33:12.698 [info] Locator LinuxGlobal took 135.617985ms
+2025-05-15 21:33:12.698 [info] Locator PipEnv took 491.648µs
+2025-05-15 21:33:12.698 [info] Locator Pixi took 128.672µs
+2025-05-15 21:33:12.698 [info] Locator Poetry took 44.006084ms
+2025-05-15 21:33:12.698 [info] Locator PyEnv took 43.696072ms
+2025-05-15 21:33:12.698 [info] Locator Venv took 254.196µs
+2025-05-15 21:33:12.698 [info] Locator VirtualEnv took 128.608µs
+2025-05-15 21:33:12.698 [info] Locator VirtualEnvWrapper took 59.373µs
+2025-05-15 21:33:12.698 [info] Locator GlobalVirtualEnvs took 1.341553ms
+2025-05-15 21:33:12.698 [info] Locator Locators took 4.057270467s
+2025-05-15 21:33:12.698 [info] Locator Path took 367.237326ms
+2025-05-15 21:33:12.699 [info] Locator Workspaces took 713.621µs
+2025-05-15 21:33:12.699 [info] Refresh completed in 4057ms
+2025-05-15 21:33:12.783 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:35:19.991 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:36:18.450 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:36:53.289 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:37:25.047 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:38:06.853 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:38:38.875 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:39:14.757 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:40:10.205 [info] Resolved Python Environment /usr/bin/python3
+2025-05-15 21:40:56.186 [info] Resolved Python Environment /usr/bin/python3

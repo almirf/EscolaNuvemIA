@@ -1,0 +1,15 @@
+2025-05-21 20:21:02.595 [info] O experimento 'pythonRecommendTensorboardExt' está ativo
+2025-05-21 20:21:02.595 [info] O experimento 'pythonTerminalEnvVarActivation' está ativo
+2025-05-21 20:21:02.595 [info] Native locator: Refresh started
+2025-05-21 20:21:02.595 [info] Native locator: Refresh started
+2025-05-21 20:21:02.595 [info] Native locator: Refresh started
+2025-05-21 20:21:06.584 [info] Native locator: Refresh finished in 4653 ms
+2025-05-21 20:21:06.590 [info] > pyenv which python
+2025-05-21 20:21:06.590 [info] cwd: .
+2025-05-21 20:21:06.674 [info] Caminho do interpretador Python: /bin/python3
+2025-05-21 20:21:07.378 [info] Discover tests for workspace name: almir - uri: /home/almir/escoladanuvem/pratica-02/calculadora_media_escolar.py
+2025-05-21 20:21:08.502 [info] Iniciando servidor de idiomas Pylance.
+2025-05-21 20:21:48.304 [info] Discover tests for workspace name: almir - uri: /home/almir/escoladanuvem/pratica-02/calculadora_media_escolar.py
+2025-05-21 20:21:50.787 [info] Discover tests for workspace name: almir - uri: /home/almir/escoladanuvem/pratica-02/calculadora_media_escolar.py
+2025-05-21 20:21:56.447 [info] Discover tests for workspace name: almir - uri: /home/almir/escoladanuvem/pratica-02/calculadora_media_escolar.py
+2025-05-21 20:22:52.396 [info] Discover tests for workspace name: almir - uri: /home/almir/escoladanuvem/pratica-02/calculadora_salario.py

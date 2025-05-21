@@ -1,0 +1,71 @@
+2025-05-15 21:33:09.348 [info] O experimento 'pythonRecommendTensorboardExt' está ativo
+2025-05-15 21:33:09.348 [info] O experimento 'pythonTerminalEnvVarActivation' está ativo
+2025-05-15 21:33:09.348 [info] Native locator: Refresh started
+2025-05-15 21:33:09.348 [info] Native locator: Refresh started
+2025-05-15 21:33:09.348 [info] Native locator: Refresh started
+2025-05-15 21:33:12.700 [info] Native locator: Refresh finished in 4112 ms
+2025-05-15 21:33:12.705 [info] > pyenv which python
+2025-05-15 21:33:12.705 [info] cwd: .
+2025-05-15 21:33:12.786 [info] Caminho do interpretador Python: /usr/bin/python3
+2025-05-15 21:33:14.773 [info] Iniciando servidor de idiomas Pylance.
+2025-05-15 21:33:17.090 [info] CreateEnv Trigger - Skipping for /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:33:17.142 [info] Send text to terminal: /usr/bin/python3 /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:33:30.363 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:35:01.638 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:35:03.020 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:35:09.721 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:35:55.845 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:35:57.281 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:35:58.766 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:01.200 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:09.938 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:12.833 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:16.216 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:32.891 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:37.415 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:36:51.815 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:07.217 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:12.211 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:14.144 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:16.022 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:20.599 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:22.850 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:46.026 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:49.205 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:51.129 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:37:55.679 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:00.828 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:04.470 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:21.429 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:22.439 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:28.751 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:36.722 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:38.106 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:50.168 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:51.265 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:56.804 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:38:59.374 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:01.817 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:14.228 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:31.996 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:36.742 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:40.776 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:41.980 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:46.846 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:52.635 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:39:54.388 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:05.932 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:09.378 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:29.812 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:31.135 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:32.342 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:34.315 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:38.187 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:42.931 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:44.449 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:46.087 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:48.337 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:51.416 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:53.873 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:40:55.240 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py
+2025-05-15 21:41:07.227 [info] Discover tests for workspace name: escoladanuvem - uri: /home/almir/escoladanuvem/calculadora_soma.py

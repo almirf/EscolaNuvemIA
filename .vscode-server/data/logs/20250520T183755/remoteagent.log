@@ -1,0 +1,31 @@
+2025-05-20 18:37:55.382 [info] 
+
+
+
+
+2025-05-20 18:37:55.412 [info] Extension host agent started.
+2025-05-20 18:37:55.615 [info] [127.0.0.1][7f04564c][ManagementConnection] New connection established.
+2025-05-20 18:37:55.679 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 18:37:55.727 [info] [127.0.0.1][691c355c][ExtensionHostConnection] New connection established.
+2025-05-20 18:37:55.839 [info] [127.0.0.1][691c355c][ExtensionHostConnection] <616> Launched Extension Host Process.
+2025-05-20 18:37:58.598 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 18:38:01.009 [info] Getting Manifest... ms-python.debugpy
+2025-05-20 18:38:01.012 [info] Getting Manifest... ms-python.python
+2025-05-20 18:38:01.134 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":true,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-05-20 18:38:01.146 [info] Installing extension: ms-python.python {"installPreReleaseVersion":true,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-05-20 18:38:01.437 [info] Getting Manifest... ms-python.vscode-pylance
+2025-05-20 18:38:01.495 [info] Getting Manifest... ms-python.debugpy
+2025-05-20 18:38:01.685 [info] Getting Manifest... ms-python.python
+2025-05-20 18:38:01.832 [info] Getting Manifest... ms-python.vscode-pylance
+2025-05-20 18:38:08.108 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 3473ms.
+2025-05-20 18:38:08.696 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1896ms.
+2025-05-20 18:38:10.354 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-python.debugpy-2025.9.2025052001-linux-x64: ms-python.debugpy
+2025-05-20 18:38:10.440 [info] Renamed to /home/almir/.vscode-server/extensions/ms-python.debugpy-2025.9.2025052001-linux-x64
+2025-05-20 18:38:10.509 [info] Marked extension as removed ms-python.debugpy-2025.9.2025051201-linux-x64
+2025-05-20 18:38:10.527 [info] Extension installed successfully: ms-python.debugpy file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-20 18:38:12.654 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025052003-linux-x64: ms-python.python
+2025-05-20 18:38:12.903 [info] Renamed to /home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025052003-linux-x64
+2025-05-20 18:38:12.943 [info] Marked extension as removed ms-python.python-2025.7.2025051507-linux-x64
+2025-05-20 18:38:12.945 [info] Extension installed successfully: ms-python.python file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-20 22:00:37.272 [info] [127.0.0.1][7f04564c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-20 22:00:37.933 [info] [127.0.0.1][691c355c][ExtensionHostConnection] <616> Extension Host Process exited with code: 0, signal: null.

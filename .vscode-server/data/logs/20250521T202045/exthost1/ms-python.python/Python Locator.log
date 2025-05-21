@@ -1,0 +1,20 @@
+2025-05-21 20:21:02.595 [info] Starting Python Locator /home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025052003-linux-x64/python-env-tools/bin/pet server
+2025-05-21 20:21:02.631 [info] Discovered env: /bin/python3
+2025-05-21 20:21:02.648 [info] Discovered env: /usr/bin/python3
+2025-05-21 20:21:06.583 [info] Locator Conda took 4.615164068s
+2025-05-21 20:21:06.583 [info] Locator Homebrew took 431.903µs
+2025-05-21 20:21:06.583 [info] Locator LinuxGlobal took 64.060889ms
+2025-05-21 20:21:06.583 [info] Locator PipEnv took 30.04µs
+2025-05-21 20:21:06.583 [info] Locator Pixi took 188.259µs
+2025-05-21 20:21:06.583 [info] Locator Poetry took 24.665904ms
+2025-05-21 20:21:06.583 [info] Locator PyEnv took 25.299613ms
+2025-05-21 20:21:06.583 [info] Locator Venv took 86.055µs
+2025-05-21 20:21:06.583 [info] Locator VirtualEnv took 541.416µs
+2025-05-21 20:21:06.583 [info] Locator VirtualEnvWrapper took 753.617µs
+2025-05-21 20:21:06.583 [info] Locator GlobalVirtualEnvs took 1.920647ms
+2025-05-21 20:21:06.583 [info] Locator Locators took 4.615629395s
+2025-05-21 20:21:06.583 [info] Locator Path took 652.359924ms
+2025-05-21 20:21:06.583 [info] Locator Workspaces took 4.709362ms
+2025-05-21 20:21:06.583 [info] Refresh completed in 4615ms
+2025-05-21 20:21:06.671 [info] Resolved Python Environment /bin/python3
+2025-05-21 20:21:57.834 [info] Resolved Python Environment /bin/python3

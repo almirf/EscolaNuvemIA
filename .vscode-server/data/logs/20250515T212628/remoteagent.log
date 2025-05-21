@@ -1,0 +1,48 @@
+2025-05-15 21:26:28.734 [info] 
+
+
+
+
+2025-05-15 21:26:28.746 [info] Extension host agent started.
+2025-05-15 21:26:28.782 [info] Started initializing default profile extensions in extensions installation folder. file:///home/almir/.vscode-server/extensions
+2025-05-15 21:26:28.810 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 21:26:28.815 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/almir/.vscode-server/extensions
+2025-05-15 21:26:28.909 [info] [127.0.0.1][bca7a129][ManagementConnection] New connection established.
+2025-05-15 21:26:28.953 [info] Installing extensions...
+2025-05-15 21:26:29.117 [info] [127.0.0.1][226c0f8f][ExtensionHostConnection] New connection established.
+2025-05-15 21:26:29.123 [info] [127.0.0.1][226c0f8f][ExtensionHostConnection] <585> Launched Extension Host Process.
+2025-05-15 21:26:29.201 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 21:26:29.541 [info] Installing extension 'ms-ceintl.vscode-language-pack-pt-br'...
+2025-05-15 21:26:29.542 [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+2025-05-15 21:26:29.561 [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br {"isMachineScoped":true,"isBuiltin":false,"installGivenVersion":false,"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-15 21:26:30.920 [info] Downloaded extension to file:///home/almir/.vscode-server/data/CachedExtensionVSIXs/9ab83ce1-5524-4eff-b6e6-d818259cf1a4
+2025-05-15 21:26:30.928 [info] Installing extension: github.vscode-pull-request-github {"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-15 21:26:31.249 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0: github.vscode-pull-request-github
+2025-05-15 21:26:31.259 [info] Renamed to /home/almir/.vscode-server/extensions/github.vscode-pull-request-github-0.110.0
+2025-05-15 21:26:31.276 [info] Extension installed successfully: github.vscode-pull-request-github file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-15 21:26:31.349 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-pt-br: Success. Internal Code: 0. Executed: true. Duration: 1363ms.
+2025-05-15 21:26:31.471 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-ceintl.vscode-language-pack-pt-br-1.100.2025051409: ms-ceintl.vscode-language-pack-pt-br
+2025-05-15 21:26:31.483 [info] Renamed to /home/almir/.vscode-server/extensions/ms-ceintl.vscode-language-pack-pt-br-1.100.2025051409
+2025-05-15 21:26:31.494 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+2025-05-15 21:26:31.517 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-15 21:26:31.518 [info] Extension 'ms-ceintl.vscode-language-pack-pt-br' v1.100.2025051409 was successfully installed.
+2025-05-15 21:32:51.970 [info] Getting Manifest... ms-python.python
+2025-05-15 21:32:52.066 [info] Installing extension: ms-python.python {"installPreReleaseVersion":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-15 21:32:52.198 [info] Getting Manifest... ms-python.vscode-pylance
+2025-05-15 21:32:52.238 [info] Getting Manifest... ms-python.debugpy
+2025-05-15 21:32:52.289 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"installGivenVersion":false}
+2025-05-15 21:32:52.290 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":true,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"installGivenVersion":false}
+2025-05-15 21:32:55.351 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 1018ms.
+2025-05-15 21:32:56.060 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1010ms.
+2025-05-15 21:32:56.506 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-python.debugpy-2025.9.2025051201-linux-x64: ms-python.debugpy
+2025-05-15 21:32:56.547 [info] Renamed to /home/almir/.vscode-server/extensions/ms-python.debugpy-2025.9.2025051201-linux-x64
+2025-05-15 21:32:58.975 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025051507-linux-x64: ms-python.python
+2025-05-15 21:32:59.164 [info] Renamed to /home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025051507-linux-x64
+2025-05-15 21:32:59.607 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 1020ms.
+2025-05-15 21:33:07.228 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100: ms-python.vscode-pylance
+2025-05-15 21:33:07.807 [info] Renamed to /home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100
+2025-05-15 21:33:07.840 [info] Extension installed successfully: ms-python.debugpy file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-15 21:33:07.840 [info] Extension installed successfully: ms-python.python file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-15 21:33:07.841 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/almir/.vscode-server/extensions/extensions.json
+2025-05-15 21:52:53.323 [info] [127.0.0.1][bca7a129][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 21:52:53.500 [info] [127.0.0.1][226c0f8f][ExtensionHostConnection] <585> Extension Host Process exited with code: 0, signal: null.

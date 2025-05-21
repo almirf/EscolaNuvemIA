@@ -1,0 +1,18 @@
+2025-05-21 20:20:48.165 [info] Extension host with pid 525 started
+2025-05-21 20:20:48.174 [info] Lock '/home/almir/.vscode-server/data/User/workspaceStorage/4b9ca4a4a32187314540a5b7291c3b2b/vscode.lock': Lock acquired.
+2025-05-21 20:20:48.259 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-21 20:20:48.456 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-21 20:20:48.772 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-21 20:20:48.773 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-21 20:20:49.160 [info] Eager extensions activated
+2025-05-21 20:20:49.161 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 20:20:49.161 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 20:20:49.220 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-05-21 20:20:49.639 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+2025-05-21 20:20:51.235 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2025-05-21 20:21:01.380 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-05-21 20:21:02.062 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-05-21 20:21:02.063 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-05-21 20:21:03.040 [error] TypeError: Cannot read properties of undefined (reading 'toString')
+	at /home/almir/.vscode-server/extensions/ms-python.debugpy-2025.9.2025052001-linux-x64/dist/extension.js:2:849866
+	at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read/context:52:12)

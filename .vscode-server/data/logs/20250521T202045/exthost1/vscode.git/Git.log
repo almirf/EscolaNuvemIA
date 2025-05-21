@@ -1,0 +1,51 @@
+2025-05-21 20:20:49.213 [info] [principal] Nível de log: Info
+2025-05-21 20:20:49.213 [info] [principal] Validando o git encontrado em: "git"
+2025-05-21 20:20:49.213 [info] [principal] Usando git "2.43.0" de "git"
+2025-05-21 20:20:49.213 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-21 20:20:49.213 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-21 20:20:49.213 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-05-21 20:20:49.213 [info] [Model][openRepository] Opened repository (path): /home/almir
+2025-05-21 20:20:49.213 [info] [Model][openRepository] Opened repository (real path): /home/almir
+2025-05-21 20:20:49.221 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-21 20:20:49.222 [info] > git config --get commit.template [5ms]
+2025-05-21 20:20:49.232 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-21 20:20:49.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [59ms]
+2025-05-21 20:20:49.427 [info] > git rev-parse --show-toplevel [187ms]
+2025-05-21 20:20:49.444 [info] > git rev-parse --show-toplevel [13ms]
+2025-05-21 20:20:49.449 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [8ms]
+2025-05-21 20:20:49.453 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-21 20:20:49.539 [info] > git rev-parse --show-toplevel [81ms]
+2025-05-21 20:20:49.541 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-21 20:20:49.672 [info] > git status -z -uall [235ms] (cancelled)
+2025-05-21 20:20:49.677 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-05-21 20:20:49.685 [info] > git config --get commit.template [8ms]
+2025-05-21 20:20:49.686 [info] > git config --get --local branch.master.vscode-merge-base [3ms]
+2025-05-21 20:20:49.686 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-21 20:20:51.050 [info] > git reflog master --grep-reflog=branch: Created from *. [1358ms]
+2025-05-21 20:20:51.073 [info] > git check-ignore -v -z --stdin [8ms]
+2025-05-21 20:20:51.075 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [18ms]
+2025-05-21 20:20:51.075 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-21 20:20:51.076 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-21 20:20:51.083 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [52ms]
+2025-05-21 20:20:51.094 [info] > git merge-base refs/heads/master refs/remotes/origin/master [11ms]
+2025-05-21 20:20:51.112 [info] > git diff --name-status -z --diff-filter=ADMR 7da593b8125e55be87df3e24616cfb452042ce4b...refs/remotes/origin/master [12ms]
+2025-05-21 20:20:51.113 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-21 20:20:51.172 [info] > git status -z -uall [64ms] (cancelled)
+2025-05-21 20:20:53.003 [info] > git config --get --local branch.master.github-pr-owner-number [9ms]
+2025-05-21 20:20:53.004 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-21 20:20:58.466 [info] > git check-ignore -v -z --stdin [1ms]
+2025-05-21 20:21:00.144 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-21 20:21:01.964 [info] > git show --textconv :escoladanuvem/pratica-02/calculadora_media_escolar.py [307ms]
+2025-05-21 20:21:01.996 [info] > git ls-files --stage -- escoladanuvem/pratica-02/calculadora_media_escolar.py [334ms]
+2025-05-21 20:21:02.003 [info] > git hash-object -t tree /dev/null [34ms]
+2025-05-21 20:21:02.004 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/almir/escoladanuvem/pratica-02/calculadora_media_escolar.py.git?%7B%22path%22%3A%22%2Fhome%2Falmir%2Fescoladanuvem%2Fpratica-02%2Fcalculadora_media_escolar.py%22%2C%22ref%22%3A%22%22%7D
+2025-05-21 20:21:02.574 [info] > git hash-object -t tree /dev/null [574ms]
+2025-05-21 20:21:02.574 [warning] [GitFileSystemProvider][stat] File not found - git:/home/almir/escoladanuvem/pratica-02/calculadora_media_escolar.py.git?%7B%22path%22%3A%22%2Fhome%2Falmir%2Fescoladanuvem%2Fpratica-02%2Fcalculadora_media_escolar.py%22%2C%22ref%22%3A%22%22%7D
+2025-05-21 20:21:05.085 [info] > git blame --root --incremental 7da593b8125e55be87df3e24616cfb452042ce4b -- escoladanuvem/pratica-02/calculadora_media_escolar.py [2ms]
+2025-05-21 20:21:05.085 [info] fatal: no such path escoladanuvem/pratica-02/calculadora_media_escolar.py in 7da593b8125e55be87df3e24616cfb452042ce4b
+2025-05-21 20:22:06.549 [info] > git show --textconv :escoladanuvem/pratica-02/calculadora_salario.py [8ms]
+2025-05-21 20:22:06.550 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/almir/escoladanuvem/pratica-02/calculadora_salario.py.git?%7B%22path%22%3A%22%2Fhome%2Falmir%2Fescoladanuvem%2Fpratica-02%2Fcalculadora_salario.py%22%2C%22ref%22%3A%22%22%7D
+2025-05-21 20:22:06.551 [info] > git ls-files --stage -- escoladanuvem/pratica-02/calculadora_salario.py [3ms]
+2025-05-21 20:22:06.551 [warning] [GitFileSystemProvider][stat] File not found - git:/home/almir/escoladanuvem/pratica-02/calculadora_salario.py.git?%7B%22path%22%3A%22%2Fhome%2Falmir%2Fescoladanuvem%2Fpratica-02%2Fcalculadora_salario.py%22%2C%22ref%22%3A%22%22%7D
+2025-05-21 20:22:33.202 [info] > git blame --root --incremental 7da593b8125e55be87df3e24616cfb452042ce4b -- escoladanuvem/pratica-02/calculadora_salario.py [3ms]
+2025-05-21 20:22:33.202 [info] fatal: no such path escoladanuvem/pratica-02/calculadora_salario.py in 7da593b8125e55be87df3e24616cfb452042ce4b

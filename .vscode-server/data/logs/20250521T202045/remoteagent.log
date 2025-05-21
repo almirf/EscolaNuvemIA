@@ -1,0 +1,24 @@
+2025-05-21 20:20:46.048 [info] 
+
+
+
+
+2025-05-21 20:20:46.063 [info] Extension host agent started.
+2025-05-21 20:20:46.172 [info] [127.0.0.1][bc44db98][ManagementConnection] New connection established.
+2025-05-21 20:20:46.294 [info] [127.0.0.1][3e478443][ExtensionHostConnection] New connection established.
+2025-05-21 20:20:46.408 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/almir/.vscode-server/extensions/ms-python.debugpy-2025.9.2025051201-linux-x64
+2025-05-21 20:20:46.408 [info] Deleted marked for removal extension from disk ms-python.python /home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025051507-linux-x64
+2025-05-21 20:20:46.412 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 20:20:46.442 [info] [127.0.0.1][3e478443][ExtensionHostConnection] <525> Launched Extension Host Process.
+2025-05-21 20:20:46.513 [info] [127.0.0.1][3e478443][ExtensionHostConnection] <525><stderr> Error reading NLS messages file /home/almir/.vscode-server/data/clp/238cda8cb97ac68de979d7ddb138ae25.pt-br/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/almir/.vscode-server/data/clp/238cda8cb97ac68de979d7ddb138ae25.pt-br/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/nls.messages.json'
+
+2025-05-21 20:20:49.436 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 20:20:51.705 [info] Getting Manifest... ms-python.python
+2025-05-21 20:20:51.807 [info] Installing extension: ms-python.python {"installPreReleaseVersion":true,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/almir/.vscode-server/extensions/extensions.json","external":"file:///home/almir/.vscode-server/extensions/extensions.json","path":"/home/almir/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-05-21 20:20:52.201 [info] Getting Manifest... ms-python.vscode-pylance
+2025-05-21 20:20:52.250 [info] Getting Manifest... ms-python.debugpy
+2025-05-21 20:20:57.776 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 1301ms.
+2025-05-21 20:21:01.148 [info] Extracted extension to file:///home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025052102-linux-x64: ms-python.python
+2025-05-21 20:21:01.377 [info] Renamed to /home/almir/.vscode-server/extensions/ms-python.python-2025.7.2025052102-linux-x64
+2025-05-21 20:21:01.421 [info] Marked extension as removed ms-python.python-2025.7.2025052003-linux-x64
+2025-05-21 20:21:01.428 [info] Extension installed successfully: ms-python.python file:///home/almir/.vscode-server/extensions/extensions.json

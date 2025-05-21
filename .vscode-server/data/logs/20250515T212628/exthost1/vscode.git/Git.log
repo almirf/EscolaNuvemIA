@@ -1,0 +1,84 @@
+2025-05-15 21:26:33.145 [info] [principal] Nível de log: Info
+2025-05-15 21:26:33.145 [info] [principal] Validando o git encontrado em: "git"
+2025-05-15 21:26:33.145 [info] [principal] Usando git "2.43.0" de "git"
+2025-05-15 21:26:33.145 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-15 21:26:33.145 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-15 21:26:33.145 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-05-15 21:26:36.409 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-15 21:28:25.478 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-15 21:28:35.833 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-15 21:28:41.577 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-15 21:28:45.936 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-15 21:29:32.307 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-15 21:29:36.274 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-15 21:30:18.509 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-15 21:32:22.000 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-15 21:33:08.034 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-15 21:33:08.227 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-15 21:33:08.661 [info] > git rev-parse --show-toplevel [16ms]
+2025-05-15 21:33:13.002 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-15 21:36:48.223 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-15 21:43:15.212 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-15 21:43:15.221 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-15 21:43:15.243 [info] [Model][openRepository] Opened repository (path): /home/almir/escoladanuvem
+2025-05-15 21:43:15.243 [info] [Model][openRepository] Opened repository (real path): /home/almir/escoladanuvem
+2025-05-15 21:43:15.256 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-15 21:43:15.257 [info] > git config --get commit.template [6ms]
+2025-05-15 21:43:15.258 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-05-15 21:43:15.258 [warning] [Git][getBranch] No such branch: master
+2025-05-15 21:43:15.272 [info] > git status -z -uall [10ms]
+2025-05-15 21:43:15.273 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-05-15 21:43:15.294 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2025-05-15 21:43:15.294 [warning] [Git][getBranch] No such branch: master
+2025-05-15 21:43:15.294 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2025-05-15 21:43:15.296 [info] > git config --get commit.template [4ms]
+2025-05-15 21:43:15.300 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-15 21:43:15.301 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-05-15 21:43:15.301 [warning] [Git][getBranch] No such branch: master
+2025-05-15 21:43:15.315 [info] > git status -z -uall [12ms]
+2025-05-15 21:43:15.316 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-05-15 21:43:15.351 [info] > git config --get --local branch.master.github-pr-owner-number [1ms]
+2025-05-15 21:43:15.352 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-15 21:43:15.357 [info] > git config --get --local branch.master.remote [1ms]
+2025-05-15 21:43:15.357 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-15 21:43:15.362 [info] > git config --get --local branch.master.merge [2ms]
+2025-05-15 21:43:15.362 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-15 21:43:15.800 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-15 21:44:42.914 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-15 21:44:42.914 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aula01 refs/remotes/aula01 [2ms]
+2025-05-15 21:44:42.914 [warning] [Git][getBranch] No such branch: aula01
+2025-05-15 21:44:42.915 [info] > git config --get commit.template [6ms]
+2025-05-15 21:44:42.922 [info] > git status -z -uall [3ms]
+2025-05-15 21:44:42.923 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-15 21:44:42.936 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aula01 refs/remotes/aula01 [6ms]
+2025-05-15 21:44:42.936 [warning] [Git][getBranch] No such branch: aula01
+2025-05-15 21:44:42.936 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for aula01: Error: No such branch: aula01.
+2025-05-15 21:44:42.937 [info] > git config --get --local branch.aula01.github-pr-owner-number [3ms]
+2025-05-15 21:44:42.937 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-15 21:44:42.943 [info] > git config --get --local branch.aula01.remote [2ms]
+2025-05-15 21:44:42.943 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-15 21:44:42.948 [info] > git config --get --local branch.aula01.merge [1ms]
+2025-05-15 21:44:42.948 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-15 21:47:38.151 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-15 21:47:38.594 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-15 21:47:38.595 [info] > git config --get commit.template [4ms]
+2025-05-15 21:47:38.595 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aula01 refs/remotes/aula01 [1ms]
+2025-05-15 21:47:38.595 [warning] [Git][getBranch] No such branch: aula01
+2025-05-15 21:47:38.603 [info] > git status -z -uall [5ms]
+2025-05-15 21:47:38.603 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-15 21:52:52.020 [info] [Git][getRemotes] No remotes found in the git config file
+2025-05-15 21:52:52.029 [info] > git config --get commit.template [9ms]
+2025-05-15 21:52:52.036 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/aula01 refs/remotes/aula01 [8ms]
+2025-05-15 21:52:52.036 [warning] [Git][getBranch] No such branch: aula01
+2025-05-15 21:52:52.048 [info] > git status -z -uall [7ms]
+2025-05-15 21:52:52.052 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-05-15 21:52:52.435 [info] > git show --textconv :calculadora_soma.py [16ms]
+2025-05-15 21:52:52.435 [info] > git show --textconv HEAD:calculadora_soma.py [13ms]
+2025-05-15 21:52:52.435 [info] > git ls-files --stage -- calculadora_soma.py [8ms]
+2025-05-15 21:52:52.442 [info] > git cat-file -s 108fea502f9ce3f1dce3c370498fe03b8cb0a130 [4ms]
+2025-05-15 21:52:52.443 [info] > git ls-tree -l HEAD -- calculadora_soma.py [11ms]
+2025-05-15 21:52:52.444 [info] fatal: Not a valid object name HEAD
+2025-05-15 21:52:52.448 [info] > git hash-object -t tree /dev/null [7ms]
+2025-05-15 21:52:52.448 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/almir/escoladanuvem/calculadora_soma.py.git?%7B%22path%22%3A%22%2Fhome%2Falmir%2Fescoladanuvem%2Fcalculadora_soma.py%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-05-15 21:52:52.450 [info] > git hash-object -t tree /dev/null [3ms]
+2025-05-15 21:52:52.450 [warning] [GitFileSystemProvider][stat] File not found - git:/home/almir/escoladanuvem/calculadora_soma.py.git?%7B%22path%22%3A%22%2Fhome%2Falmir%2Fescoladanuvem%2Fcalculadora_soma.py%22%2C%22ref%22%3A%22HEAD%22%7D

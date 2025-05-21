@@ -1,0 +1,64 @@
+2025-05-20 18:38:00.834 [info] (Client) Pylance async client (2025.5.100) started with python extension (2025.7.2025051507)
+2025-05-20 18:38:02.335 [info] [Info  - 6:38:02 PM] (819) Server root directory: file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100/dist
+2025-05-20 18:38:02.340 [info] [Info  - 6:38:02 PM] (819) Pylance language server 2025.5.100 (pyright version 1.1.400, commit b962ffc2) starting
+2025-05-20 18:38:02.340 [info] [Info  - 6:38:02 PM] (819) Starting service instance "escoladanuvem" for workspace "/home/almir/escoladanuvem"
+2025-05-20 18:38:02.679 [info] [Info  - 6:38:02 PM] (819) Setting environmentName for service "escoladanuvem": "3.12.3 (global)"
+2025-05-20 18:38:02.683 [info] [Info  - 6:38:02 PM] (819) Setting pythonPath for service "escoladanuvem": "/bin/python3"
+2025-05-20 18:38:02.691 [info] [Info  - 6:38:02 PM] (819) No include entries specified; assuming /home/almir/escoladanuvem
+2025-05-20 18:38:02.692 [info] [Info  - 6:38:02 PM] (819) Auto-excluding **/node_modules
+2025-05-20 18:38:02.694 [info] [Info  - 6:38:02 PM] (819) Auto-excluding **/__pycache__
+2025-05-20 18:38:02.694 [info] [Info  - 6:38:02 PM] (819) Auto-excluding **/.*
+2025-05-20 18:38:02.933 [info] [Info  - 6:38:02 PM] (819) Assuming Python version 3.12.3.final.0
+2025-05-20 18:38:03.746 [info] [Info  - 6:38:03 PM] (819) Found 2 source files
+2025-05-20 18:38:05.034 [info] [Info  - 6:38:05 PM] (819) Setting environmentName for service "escoladanuvem": "3.12.3 (global)"
+2025-05-20 18:38:05.037 [info] [Info  - 6:38:05 PM] (819) Setting pythonPath for service "escoladanuvem": "/bin/python3"
+2025-05-20 18:38:05.038 [info] [Info  - 6:38:05 PM] (819) No include entries specified; assuming /home/almir/escoladanuvem
+2025-05-20 18:38:05.038 [info] [Info  - 6:38:05 PM] (819) Auto-excluding **/node_modules
+2025-05-20 18:38:05.038 [info] [Info  - 6:38:05 PM] (819) Auto-excluding **/__pycache__
+2025-05-20 18:38:05.040 [info] [Info  - 6:38:05 PM] (819) Auto-excluding **/.*
+2025-05-20 18:38:05.130 [info] [Info  - 6:38:05 PM] (819) Assuming Python version 3.12.3.final.0
+2025-05-20 18:38:05.433 [info] [Info  - 6:38:05 PM] (819) Found 2 source files
+2025-05-20 18:38:07.597 [info] [Info  - 6:38:07 PM] (819) BG: Priority queue background worker(2) root directory: file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100/dist
+2025-05-20 18:38:07.602 [info] [Info  - 6:38:07 PM] (819) BG: Priority queue background worker(2) started
+2025-05-20 18:38:08.206 [info] [Info  - 6:38:08 PM] (819) BG: Indexer background runner(3) root directory: file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100/dist (index)
+2025-05-20 18:38:08.206 [info] [Info  - 6:38:08 PM] (819) BG: Indexing(3) started
+2025-05-20 18:38:09.741 [info] [Info  - 6:38:09 PM] (819) BG: scanned(3) 72 files over 1 exec env
+2025-05-20 18:38:10.152 [info] [Info  - 6:38:10 PM] (819) BG: indexed(3) 72 files over 1 exec env
+2025-05-20 18:38:10.206 [info] [Info  - 6:38:10 PM] (819) BG: Indexing finished(3).
+2025-05-20 18:45:57.923 [info] [Info  - 6:45:57 PM] (819) BG: Indexer background runner(4) root directory: file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100/dist (refresh)
+2025-05-20 18:45:57.923 [info] [Info  - 6:45:57 PM] (819) BG: Indexing(4) started
+2025-05-20 18:45:58.577 [info] [Info  - 6:45:58 PM] (819) BG: scanned(4) 72 files over 1 exec env
+2025-05-20 18:45:58.845 [info] [Info  - 6:45:58 PM] (819) BG: indexed(4) 72 files over 1 exec env
+2025-05-20 18:45:58.884 [info] [Info  - 6:45:58 PM] (819) BG: Indexing finished(4).
+2025-05-20 18:46:18.472 [info] [Info  - 6:46:18 PM] (819) BG: Indexer background runner(5) root directory: file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100/dist (refresh)
+2025-05-20 18:46:18.473 [info] [Info  - 6:46:18 PM] (819) BG: Indexing(5) started
+2025-05-20 18:46:19.060 [info] [Info  - 6:46:19 PM] (819) BG: scanned(5) 72 files over 1 exec env
+2025-05-20 18:46:19.342 [info] [Info  - 6:46:19 PM] (819) BG: indexed(5) 72 files over 1 exec env
+2025-05-20 18:46:19.375 [info] [Info  - 6:46:19 PM] (819) BG: Indexing finished(5).
+2025-05-20 18:53:39.315 [info] [Info  - 6:53:39 PM] (819) Found 3 source files
+2025-05-20 18:57:36.225 [info] [Info  - 6:57:36 PM] (819) Found 4 source files
+2025-05-20 19:36:35.178 [info] [Info  - 7:36:35 PM] (819) Found 4 source files
+2025-05-20 19:36:39.343 [info] [Info  - 7:36:39 PM] (819) Found 4 source files
+2025-05-20 19:36:43.141 [info] [Info  - 7:36:43 PM] (819) Found 4 source files
+2025-05-20 19:36:55.299 [info] [Info  - 7:36:55 PM] (819) Found 5 source files
+2025-05-20 19:36:57.238 [info] [Info  - 7:36:57 PM] (819) Found 5 source files
+2025-05-20 19:37:04.938 [info] [Info  - 7:37:04 PM] (819) Found 5 source files
+2025-05-20 19:41:28.500 [info] [Info  - 7:41:28 PM] (819) Found 5 source files
+2025-05-20 19:51:55.930 [info] [Info  - 7:51:55 PM] (819) Found 6 source files
+2025-05-20 20:00:11.433 [info] [Info  - 8:00:11 PM] (819) Starting service instance "<default>" for workspace ""
+2025-05-20 20:00:11.588 [info] [Info  - 8:00:11 PM] (819) Setting environmentName for service "<default>": "3.12.3 (global)"
+2025-05-20 20:00:11.589 [info] [Info  - 8:00:11 PM] (819) Setting pythonPath for service "<default>": "/bin/python3"
+2025-05-20 20:00:11.589 [info] [Info  - 8:00:11 PM] (819) No include entries specified; assuming /<default workspace root>
+2025-05-20 20:00:11.591 [info] [Info  - 8:00:11 PM] (819) Auto-excluding **/node_modules
+2025-05-20 20:00:11.591 [info] [Info  - 8:00:11 PM] (819) Auto-excluding **/__pycache__
+2025-05-20 20:00:11.591 [info] [Info  - 8:00:11 PM] (819) Auto-excluding **/.*
+2025-05-20 20:00:11.646 [info] [Info  - 8:00:11 PM] (819) Assuming Python version 3.12.3.final.0
+2025-05-20 20:00:11.810 [info] [Error - 8:00:11 PM] (819) File or directory "/<default workspace root>" does not exist.
+2025-05-20 20:00:11.815 [info] [Info  - 8:00:11 PM] (819) No source files found.
+2025-05-20 20:00:12.843 [info] [Info  - 8:00:12 PM] (819) BG: Priority queue background worker(7) root directory: file:///home/almir/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.100/dist
+2025-05-20 20:00:12.845 [info] [Info  - 8:00:12 PM] (819) BG: Priority queue background worker(7) started
+2025-05-20 20:22:42.740 [info] [Info  - 8:22:42 PM] (819) Found 7 source files
+2025-05-20 20:49:55.458 [info] [Info  - 8:49:55 PM] (819) Found 8 source files
+2025-05-20 21:15:31.686 [info] [Info  - 9:15:31 PM] (819) Found 9 source files
+2025-05-20 21:26:35.943 [info] [Info  - 9:26:35 PM] (819) Found 10 source files
+2025-05-20 21:40:13.734 [info] [Info  - 9:40:13 PM] (819) Found 11 source files
